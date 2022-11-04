@@ -12,6 +12,8 @@ Azure Load Balancer Implemented
 
 Azure Application Gateway Implement
 
+---
+
 ArchitectureDiagram
 
 ![Alt text](ArchitectureDiagram.png?raw=true "ArchitectureDiagram")
