@@ -1,4 +1,4 @@
-implementation Azure Hub and Spoke topology Azure Network Traffic
+Implementation of Azure Hub and Spoke topology and Azure Network Traffic testing
 
 Environment provisioned using Azure Portal
 
