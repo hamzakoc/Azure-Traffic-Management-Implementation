@@ -1,16 +1,16 @@
 Implementation of Azure Hub and Spoke topology and Azure Network Traffic testing
 
-Environment provisioned using Azure Portal
+- Environment provisioned using Azure Portal
 
-Hub and spoke network topology configured
+- Hub and spoke network topology configured
 
-Transitivity of virtual networking peering tested
+- Transitivity of virtual networking peering tested
 
-Routing in the hub and spoke topology configured
+- Routing in the hub and spoke topology configured
 
-Azure Load Balancer Implemented
+- Azure Load Balancer Implemented
 
-Azure Application Gateway Implement
+- Azure Application Gateway Implement
 
 ---
 
